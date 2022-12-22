@@ -12,19 +12,20 @@ Console.Write("Введите трехзначное число: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 int num2 = num1;
  
-     while(num1 < 100 || num1 > 999)
+if(num1 < 100 || num1 > 999)
     {
-        Console.Write("Вы ввели не трехзначное число. Введите трехзначное число: ");
-        num1 = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Вы ввели неверное число");
     }
+else
+{
+    int second = Prog1(num1);
+    Console.WriteLine("Вторая цифра вашего числа: " + second);
+}
 
-
-int second = Prog1(num1);
-Console.WriteLine("Вторая цифра вашего числа: " + second);
 
 */
  
- 
+
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
 /*
@@ -79,3 +80,4 @@ else
     bool weekends = Week(num);
     Console.WriteLine("Этот день недели является выходным: " + weekends);
 }
+
