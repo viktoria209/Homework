@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\bin\Debug\net6.0\дз8.exe
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\bin\Debug\net6.0\дз8.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\bin\Debug\net6.0\дз8.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\bin\Debug\net6.0\дз8.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\bin\Debug\net6.0\дз8.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\refint\дз8.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\дз8.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учеба\дз\дз8\obj\Debug\net6.0\ref\дз8.dll
